@@ -1,0 +1,6 @@
+{
+  "name": "AgriBun",
+  "description": "Aplikasi Belajar Agribisnis Perkebunan SMK Fase E",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
